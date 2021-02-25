@@ -219,37 +219,6 @@ while gameon == True:
                             break
 ```
 
-    What is your name? James
-    How much money in your balance? 1000
-    Welcome to the game, James! Your current balance is $1000
-    How much money do you want to bet for this game? 500
-    Your bet for this game is $500
-    Dealer hand is Five of Hearts and ???.
-    Your hand is:
-    Eight of Diamonds
-    Nine of Diamonds
-    Your total value is 17
-    Do you want to hit or fold? Type H or F: f
-    Your hand is:
-    Eight of Diamonds
-    Nine of Diamonds
-    Your total value is 17.
-    Dealer hand is:
-    Five of Hearts
-    Seven of Diamonds
-    Dealer total value is 12.
-    Dealer hit!
-    Dealer hand is:
-    Five of Hearts
-    Seven of Diamonds
-    Ten of Clubs
-    Dealer total value is 22.
-    Dealer lost!
-    You won $500! Your current balance is $1500
-    Do you want to play again? Y or N: N
-    Have a good day!
-    
-
 
 ```python
 
